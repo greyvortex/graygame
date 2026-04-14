@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.0",
+    "phaser": "^4.0.0"
+  }
+}
